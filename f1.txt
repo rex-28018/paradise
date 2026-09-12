@@ -5,3 +5,4 @@ Imagine I am your source code: Git can record my changes so you can review earli
 
 Imagine I am your source code: Git can record my changes so you can review
 >>>>>>> practice-branch
+Our team reviews changes before adding them to main.
