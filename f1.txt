@@ -1,2 +1,7 @@
 Imagine I am your source code: Git can record my changes so you can review earlier versions.
+<<<<<<< HEAD
 'nImagine I am your source code: Git can record my changes so you can review
+=======
+
+Imagine I am your source code: Git can record my changes so you can review
+>>>>>>> practice-branch
